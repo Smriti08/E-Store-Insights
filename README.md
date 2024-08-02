@@ -1,4 +1,3 @@
-
 # E-Store Insights Project
 
 ## Project Overview
