@@ -1,4 +1,4 @@
-
+## data_cleaning.py
 import pandas as pd
 
 def clean_data(file_path):
@@ -31,3 +31,5 @@ if __name__ == "__main__":
     file_path = '/content/Sample_Superstore.csv'
     cleaned_data = clean_data(file_path)
     cleaned_data.to_csv('/content/Sample_Superstore.csv', index=False)
+
+
